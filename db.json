@@ -1,31 +1,1066 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "playlists":[
+  {
+    "id": 0,
+    "name": "My Playlist 0",
+    "songs": [
+      43,
+      35,
+      31,
+      10,
+      51,
+      68,
+      74,
+      24,
+      53,
+      50,
+      78,
+      96,
+      66,
+      55,
+      53,
+      45,
+      57,
+      1,
+      37,
+      76
+    ]
+  },
+  {
+    "id": 1,
+    "name": "My Playlist 1",
+    "songs": [
+      80,
+      77,
+      78,
+      16,
+      33,
+      76,
+      73,
+      17,
+      8,
+      42,
+      49,
+      94,
+      67,
+      76,
+      60,
+      59,
+      38,
+      5,
+      82,
+      57
+    ]
+  },
+  {
+    "id": 2,
+    "name": "My Playlist 2",
+    "songs": [
+      96,
+      24,
+      64,
+      45,
+      47,
+      24,
+      95,
+      13,
+      28,
+      69,
+      93,
+      30,
+      17,
+      68,
+      6,
+      11,
+      31,
+      79,
+      88,
+      67
+    ]
+  },
+  {
+    "id": 3,
+    "name": "My Playlist 3",
+    "songs": [
+      62,
+      63,
+      3,
+      47,
+      18,
+      56,
+      52,
+      39,
+      36,
+      21,
+      86,
+      85,
+      83,
+      11,
+      22,
+      78,
+      86,
+      26,
+      56,
+      77
+    ]
+  },
+  {
+    "id": 4,
+    "name": "My Playlist 4",
+    "songs": [
+      16,
+      90,
+      9,
+      91,
+      98,
+      39,
+      56,
+      50,
+      50,
+      70,
+      1,
+      90,
+      86,
+      55,
+      60,
+      19,
+      43,
+      34,
+      2,
+      76
+    ]
+  },
+  {
+    "id": 5,
+    "name": "My Playlist 5",
+    "songs": [
+      17,
+      86,
+      96,
+      44,
+      84,
+      77,
+      65,
+      82,
+      63,
+      66,
+      38,
+      70,
+      57,
+      2,
+      62,
+      85,
+      70,
+      98,
+      83,
+      10
+    ]
+  },
+  {
+    "id": 6,
+    "name": "My Playlist 6",
+    "songs": [
+      70,
+      30,
+      72,
+      59,
+      30,
+      39,
+      33,
+      55,
+      50,
+      26,
+      70,
+      95,
+      48,
+      85,
+      67,
+      53,
+      7,
+      83,
+      44,
+      92
+    ]
+  },
+  {
+    "id": 7,
+    "name": "My Playlist 7",
+    "songs": [
+      26,
+      67,
+      87,
+      19,
+      66,
+      25,
+      90,
+      24,
+      60,
+      44,
+      22,
+      58,
+      12,
+      95,
+      19,
+      7,
+      87,
+      19,
+      63,
+      35
+    ]
   }
+],
+  "albums":[
+  {
+    "index": 0,
+    "name": "eu amet",
+    "coverArt": "https://picsum.photos/id/623/200/300"
+  },
+  {
+    "index": 1,
+    "name": "qui magna",
+    "coverArt": "https://picsum.photos/id/349/200/300"
+  },
+  {
+    "index": 2,
+    "name": "cupidatat ea",
+    "coverArt": "https://picsum.photos/id/36/200/300"
+  },
+  {
+    "index": 3,
+    "name": "culpa proident",
+    "coverArt": "https://picsum.photos/id/278/200/300"
+  },
+  {
+    "index": 4,
+    "name": "voluptate consectetur",
+    "coverArt": "https://picsum.photos/id/999/200/300"
+  },
+  {
+    "index": 5,
+    "name": "velit laborum",
+    "coverArt": "https://picsum.photos/id/155/200/300"
+  },
+  {
+    "index": 6,
+    "name": "eu tempor",
+    "coverArt": "https://picsum.photos/id/211/200/300"
+  },
+  {
+    "index": 7,
+    "name": "adipisicing esse",
+    "coverArt": "https://picsum.photos/id/837/200/300"
+  },
+  {
+    "index": 8,
+    "name": "dolore minim",
+    "coverArt": "https://picsum.photos/id/918/200/300"
+  },
+  {
+    "index": 9,
+    "name": "laboris sunt",
+    "coverArt": "https://picsum.photos/id/226/200/300"
+  }
+],
+  "songs": [
+  {
+    "id": 0,
+    "name": "minim eiusmod exercitation",
+    "duration": 3330,
+    "artist": "Elise",
+    "album": 5,
+    "favorite": true
+  },
+  {
+    "id": 1,
+    "name": "mollit reprehenderit qui",
+    "duration": 2277,
+    "artist": "Brianna",
+    "album": 6,
+    "favorite": false
+  },
+  {
+    "id": 2,
+    "name": "tempor irure Lorem",
+    "duration": 3748,
+    "artist": "Weiss",
+    "album": 9,
+    "favorite": false
+  },
+  {
+    "id": 3,
+    "name": "quis qui excepteur",
+    "duration": 4945,
+    "artist": "Watkins",
+    "album": 9,
+    "favorite": false
+  },
+  {
+    "id": 4,
+    "name": "Lorem labore in",
+    "duration": 2810,
+    "artist": "Wilder",
+    "album": 7,
+    "favorite": true
+  },
+  {
+    "id": 5,
+    "name": "aliqua consequat consectetur",
+    "duration": 4409,
+    "artist": "Helene",
+    "album": 4,
+    "favorite": true
+  },
+  {
+    "id": 6,
+    "name": "cillum ex aliquip",
+    "duration": 3918,
+    "artist": "Maria",
+    "album": 4,
+    "favorite": false
+  },
+  {
+    "id": 7,
+    "name": "et nulla nisi",
+    "duration": 2322,
+    "artist": "Herman",
+    "album": 7,
+    "favorite": false
+  },
+  {
+    "id": 8,
+    "name": "elit adipisicing tempor",
+    "duration": 2579,
+    "artist": "Gilbert",
+    "album": 9,
+    "favorite": false
+  },
+  {
+    "id": 9,
+    "name": "nostrud esse nostrud",
+    "duration": 3038,
+    "artist": "Ofelia",
+    "album": 6,
+    "favorite": true
+  },
+  {
+    "id": 10,
+    "name": "exercitation amet dolor",
+    "duration": 4330,
+    "artist": "Leann",
+    "album": 8,
+    "favorite": true
+  },
+  {
+    "id": 11,
+    "name": "laborum anim ad",
+    "duration": 4917,
+    "artist": "Hood",
+    "album": 2,
+    "favorite": true
+  },
+  {
+    "id": 12,
+    "name": "nulla proident minim",
+    "duration": 2334,
+    "artist": "Juana",
+    "album": 8,
+    "favorite": false
+  },
+  {
+    "id": 13,
+    "name": "cillum ea dolor",
+    "duration": 3786,
+    "artist": "Rebekah",
+    "album": 8,
+    "favorite": true
+  },
+  {
+    "id": 14,
+    "name": "elit eu eu",
+    "duration": 2591,
+    "artist": "Hilary",
+    "album": 0,
+    "favorite": false
+  },
+  {
+    "id": 15,
+    "name": "consequat anim veniam",
+    "duration": 2642,
+    "artist": "Hammond",
+    "album": 8,
+    "favorite": false
+  },
+  {
+    "id": 16,
+    "name": "anim qui amet",
+    "duration": 2759,
+    "artist": "Molly",
+    "album": 4,
+    "favorite": true
+  },
+  {
+    "id": 17,
+    "name": "consectetur ullamco minim",
+    "duration": 2178,
+    "artist": "Lang",
+    "album": 2,
+    "favorite": true
+  },
+  {
+    "id": 18,
+    "name": "est incididunt fugiat",
+    "duration": 3688,
+    "artist": "Obrien",
+    "album": 2,
+    "favorite": true
+  },
+  {
+    "id": 19,
+    "name": "enim dolor aliquip",
+    "duration": 2204,
+    "artist": "Pope",
+    "album": 8,
+    "favorite": true
+  },
+  {
+    "id": 20,
+    "name": "voluptate consequat veniam",
+    "duration": 3060,
+    "artist": "Dale",
+    "album": 5,
+    "favorite": false
+  },
+  {
+    "id": 21,
+    "name": "incididunt aute velit",
+    "duration": 2436,
+    "artist": "Erickson",
+    "album": 2,
+    "favorite": true
+  },
+  {
+    "id": 22,
+    "name": "culpa ad pariatur",
+    "duration": 2891,
+    "artist": "Hansen",
+    "album": 4,
+    "favorite": true
+  },
+  {
+    "id": 23,
+    "name": "pariatur ipsum ea",
+    "duration": 4021,
+    "artist": "Clark",
+    "album": 1,
+    "favorite": false
+  },
+  {
+    "id": 24,
+    "name": "in dolore nostrud",
+    "duration": 4874,
+    "artist": "Hess",
+    "album": 1,
+    "favorite": false
+  },
+  {
+    "id": 25,
+    "name": "nulla nisi Lorem",
+    "duration": 4757,
+    "artist": "Moore",
+    "album": 1,
+    "favorite": true
+  },
+  {
+    "id": 26,
+    "name": "velit irure mollit",
+    "duration": 2262,
+    "artist": "Rivas",
+    "album": 0,
+    "favorite": true
+  },
+  {
+    "id": 27,
+    "name": "eiusmod aliquip excepteur",
+    "duration": 2174,
+    "artist": "Brandie",
+    "album": 1,
+    "favorite": true
+  },
+  {
+    "id": 28,
+    "name": "elit labore veniam",
+    "duration": 4133,
+    "artist": "Woods",
+    "album": 0,
+    "favorite": true
+  },
+  {
+    "id": 29,
+    "name": "ipsum quis ex",
+    "duration": 3327,
+    "artist": "Cynthia",
+    "album": 1,
+    "favorite": false
+  },
+  {
+    "id": 30,
+    "name": "aliqua dolore enim",
+    "duration": 3958,
+    "artist": "Gracie",
+    "album": 7,
+    "favorite": false
+  },
+  {
+    "id": 31,
+    "name": "consequat irure consequat",
+    "duration": 4333,
+    "artist": "Loretta",
+    "album": 5,
+    "favorite": false
+  },
+  {
+    "id": 32,
+    "name": "tempor adipisicing proident",
+    "duration": 4179,
+    "artist": "Hamilton",
+    "album": 1,
+    "favorite": true
+  },
+  {
+    "id": 33,
+    "name": "ea tempor aliqua",
+    "duration": 3868,
+    "artist": "Berta",
+    "album": 5,
+    "favorite": true
+  },
+  {
+    "id": 34,
+    "name": "proident commodo culpa",
+    "duration": 4926,
+    "artist": "Combs",
+    "album": 4,
+    "favorite": false
+  },
+  {
+    "id": 35,
+    "name": "adipisicing mollit laborum",
+    "duration": 2348,
+    "artist": "Miranda",
+    "album": 7,
+    "favorite": false
+  },
+  {
+    "id": 36,
+    "name": "esse nisi aute",
+    "duration": 4839,
+    "artist": "Cathy",
+    "album": 5,
+    "favorite": true
+  },
+  {
+    "id": 37,
+    "name": "eu reprehenderit non",
+    "duration": 3094,
+    "artist": "Glenna",
+    "album": 8,
+    "favorite": false
+  },
+  {
+    "id": 38,
+    "name": "dolor duis eu",
+    "duration": 3356,
+    "artist": "Flowers",
+    "album": 8,
+    "favorite": false
+  },
+  {
+    "id": 39,
+    "name": "eiusmod laborum laboris",
+    "duration": 4415,
+    "artist": "Janis",
+    "album": 0,
+    "favorite": false
+  },
+  {
+    "id": 40,
+    "name": "labore aute cillum",
+    "duration": 2796,
+    "artist": "Bowman",
+    "album": 3,
+    "favorite": true
+  },
+  {
+    "id": 41,
+    "name": "ullamco nostrud qui",
+    "duration": 2702,
+    "artist": "Nina",
+    "album": 3,
+    "favorite": true
+  },
+  {
+    "id": 42,
+    "name": "aliquip anim laboris",
+    "duration": 2441,
+    "artist": "Harmon",
+    "album": 4,
+    "favorite": true
+  },
+  {
+    "id": 43,
+    "name": "nulla dolore non",
+    "duration": 2683,
+    "artist": "Barron",
+    "album": 0,
+    "favorite": false
+  },
+  {
+    "id": 44,
+    "name": "incididunt eu elit",
+    "duration": 3117,
+    "artist": "Manuela",
+    "album": 9,
+    "favorite": true
+  },
+  {
+    "id": 45,
+    "name": "ipsum excepteur mollit",
+    "duration": 2070,
+    "artist": "Helga",
+    "album": 0,
+    "favorite": false
+  },
+  {
+    "id": 46,
+    "name": "ad nisi labore",
+    "duration": 3380,
+    "artist": "Arlene",
+    "album": 6,
+    "favorite": true
+  },
+  {
+    "id": 47,
+    "name": "dolor sit nulla",
+    "duration": 4149,
+    "artist": "Lucas",
+    "album": 6,
+    "favorite": true
+  },
+  {
+    "id": 48,
+    "name": "labore do ad",
+    "duration": 2847,
+    "artist": "Jaclyn",
+    "album": 2,
+    "favorite": false
+  },
+  {
+    "id": 49,
+    "name": "cillum tempor sit",
+    "duration": 3262,
+    "artist": "Peters",
+    "album": 8,
+    "favorite": false
+  },
+  {
+    "id": 50,
+    "name": "sunt duis laboris",
+    "duration": 3215,
+    "artist": "Letha",
+    "album": 3,
+    "favorite": false
+  },
+  {
+    "id": 51,
+    "name": "nisi excepteur consectetur",
+    "duration": 3914,
+    "artist": "Kathleen",
+    "album": 9,
+    "favorite": false
+  },
+  {
+    "id": 52,
+    "name": "nisi consectetur do",
+    "duration": 2912,
+    "artist": "Pace",
+    "album": 4,
+    "favorite": false
+  },
+  {
+    "id": 53,
+    "name": "mollit fugiat in",
+    "duration": 4820,
+    "artist": "Ila",
+    "album": 9,
+    "favorite": false
+  },
+  {
+    "id": 54,
+    "name": "laboris ut incididunt",
+    "duration": 3827,
+    "artist": "Janna",
+    "album": 8,
+    "favorite": false
+  },
+  {
+    "id": 55,
+    "name": "nostrud anim nulla",
+    "duration": 3234,
+    "artist": "Rowland",
+    "album": 9,
+    "favorite": true
+  },
+  {
+    "id": 56,
+    "name": "anim ex exercitation",
+    "duration": 3543,
+    "artist": "Sherman",
+    "album": 8,
+    "favorite": true
+  },
+  {
+    "id": 57,
+    "name": "anim do velit",
+    "duration": 3865,
+    "artist": "Le",
+    "album": 5,
+    "favorite": true
+  },
+  {
+    "id": 58,
+    "name": "ex mollit deserunt",
+    "duration": 3284,
+    "artist": "Jacobson",
+    "album": 5,
+    "favorite": true
+  },
+  {
+    "id": 59,
+    "name": "do incididunt esse",
+    "duration": 2498,
+    "artist": "Oliver",
+    "album": 6,
+    "favorite": true
+  },
+  {
+    "id": 60,
+    "name": "exercitation deserunt id",
+    "duration": 3792,
+    "artist": "Pruitt",
+    "album": 9,
+    "favorite": false
+  },
+  {
+    "id": 61,
+    "name": "quis laborum nostrud",
+    "duration": 3687,
+    "artist": "Wright",
+    "album": 8,
+    "favorite": true
+  },
+  {
+    "id": 62,
+    "name": "sint aliqua reprehenderit",
+    "duration": 2096,
+    "artist": "Marquita",
+    "album": 4,
+    "favorite": false
+  },
+  {
+    "id": 63,
+    "name": "sint sint eiusmod",
+    "duration": 3333,
+    "artist": "Brennan",
+    "album": 1,
+    "favorite": false
+  },
+  {
+    "id": 64,
+    "name": "ullamco sunt dolore",
+    "duration": 3116,
+    "artist": "Macdonald",
+    "album": 6,
+    "favorite": true
+  },
+  {
+    "id": 65,
+    "name": "ipsum non cillum",
+    "duration": 2904,
+    "artist": "Magdalena",
+    "album": 4,
+    "favorite": true
+  },
+  {
+    "id": 66,
+    "name": "ullamco proident magna",
+    "duration": 3966,
+    "artist": "Becky",
+    "album": 9,
+    "favorite": false
+  },
+  {
+    "id": 67,
+    "name": "aliquip amet pariatur",
+    "duration": 4160,
+    "artist": "Alison",
+    "album": 4,
+    "favorite": false
+  },
+  {
+    "id": 68,
+    "name": "ad irure laboris",
+    "duration": 2838,
+    "artist": "Pearl",
+    "album": 0,
+    "favorite": true
+  },
+  {
+    "id": 69,
+    "name": "nostrud et enim",
+    "duration": 3052,
+    "artist": "Celina",
+    "album": 4,
+    "favorite": true
+  },
+  {
+    "id": 70,
+    "name": "laborum sit reprehenderit",
+    "duration": 4819,
+    "artist": "Dalton",
+    "album": 3,
+    "favorite": true
+  },
+  {
+    "id": 71,
+    "name": "enim culpa sint",
+    "duration": 2961,
+    "artist": "Anthony",
+    "album": 3,
+    "favorite": false
+  },
+  {
+    "id": 72,
+    "name": "exercitation enim ex",
+    "duration": 2727,
+    "artist": "Sharon",
+    "album": 7,
+    "favorite": false
+  },
+  {
+    "id": 73,
+    "name": "anim irure ex",
+    "duration": 3417,
+    "artist": "Susana",
+    "album": 5,
+    "favorite": false
+  },
+  {
+    "id": 74,
+    "name": "et consequat tempor",
+    "duration": 2742,
+    "artist": "Grimes",
+    "album": 7,
+    "favorite": true
+  },
+  {
+    "id": 75,
+    "name": "cillum dolore et",
+    "duration": 2201,
+    "artist": "Lowe",
+    "album": 6,
+    "favorite": true
+  },
+  {
+    "id": 76,
+    "name": "ea sint laboris",
+    "duration": 2366,
+    "artist": "Dale",
+    "album": 4,
+    "favorite": false
+  },
+  {
+    "id": 77,
+    "name": "eu ex aliquip",
+    "duration": 4022,
+    "artist": "Ruthie",
+    "album": 2,
+    "favorite": true
+  },
+  {
+    "id": 78,
+    "name": "ad qui velit",
+    "duration": 3586,
+    "artist": "Lynnette",
+    "album": 0,
+    "favorite": false
+  },
+  {
+    "id": 79,
+    "name": "aliquip laborum anim",
+    "duration": 3051,
+    "artist": "Lessie",
+    "album": 0,
+    "favorite": true
+  },
+  {
+    "id": 80,
+    "name": "enim culpa ipsum",
+    "duration": 4840,
+    "artist": "Gates",
+    "album": 9,
+    "favorite": true
+  },
+  {
+    "id": 81,
+    "name": "occaecat nulla consectetur",
+    "duration": 3123,
+    "artist": "Celeste",
+    "album": 4,
+    "favorite": true
+  },
+  {
+    "id": 82,
+    "name": "consectetur nulla Lorem",
+    "duration": 2029,
+    "artist": "Emily",
+    "album": 0,
+    "favorite": true
+  },
+  {
+    "id": 83,
+    "name": "veniam sit nisi",
+    "duration": 2129,
+    "artist": "Bray",
+    "album": 3,
+    "favorite": true
+  },
+  {
+    "id": 84,
+    "name": "amet reprehenderit incididunt",
+    "duration": 2613,
+    "artist": "Cecelia",
+    "album": 4,
+    "favorite": false
+  },
+  {
+    "id": 85,
+    "name": "sint nisi ipsum",
+    "duration": 3445,
+    "artist": "Barry",
+    "album": 9,
+    "favorite": false
+  },
+  {
+    "id": 86,
+    "name": "ullamco sunt deserunt",
+    "duration": 3395,
+    "artist": "Terrell",
+    "album": 7,
+    "favorite": false
+  },
+  {
+    "id": 87,
+    "name": "aute consectetur non",
+    "duration": 2500,
+    "artist": "Nelson",
+    "album": 0,
+    "favorite": true
+  },
+  {
+    "id": 88,
+    "name": "cillum est do",
+    "duration": 4376,
+    "artist": "Gamble",
+    "album": 3,
+    "favorite": true
+  },
+  {
+    "id": 89,
+    "name": "tempor cupidatat deserunt",
+    "duration": 4525,
+    "artist": "Stacy",
+    "album": 0,
+    "favorite": true
+  },
+  {
+    "id": 90,
+    "name": "excepteur non est",
+    "duration": 2248,
+    "artist": "Chase",
+    "album": 1,
+    "favorite": true
+  },
+  {
+    "id": 91,
+    "name": "labore eu officia",
+    "duration": 3923,
+    "artist": "Kathy",
+    "album": 7,
+    "favorite": true
+  },
+  {
+    "id": 92,
+    "name": "ipsum ipsum labore",
+    "duration": 3935,
+    "artist": "Pickett",
+    "album": 9,
+    "favorite": true
+  },
+  {
+    "id": 93,
+    "name": "nisi veniam sunt",
+    "duration": 2907,
+    "artist": "Levy",
+    "album": 1,
+    "favorite": false
+  },
+  {
+    "id": 94,
+    "name": "cupidatat veniam pariatur",
+    "duration": 4536,
+    "artist": "Deleon",
+    "album": 2,
+    "favorite": true
+  },
+  {
+    "id": 95,
+    "name": "est Lorem labore",
+    "duration": 2308,
+    "artist": "Allie",
+    "album": 2,
+    "favorite": true
+  },
+  {
+    "id": 96,
+    "name": "aute amet aliqua",
+    "duration": 4250,
+    "artist": "Holt",
+    "album": 9,
+    "favorite": true
+  },
+  {
+    "id": 97,
+    "name": "eu Lorem qui",
+    "duration": 4153,
+    "artist": "Cindy",
+    "album": 5,
+    "favorite": false
+  },
+  {
+    "id": 98,
+    "name": "quis sit qui",
+    "duration": 2624,
+    "artist": "Glenn",
+    "album": 3,
+    "favorite": true
+  },
+  {
+    "id": 99,
+    "name": "non cupidatat elit",
+    "duration": 4841,
+    "artist": "Letitia",
+    "album": 8,
+    "favorite": false
+  }
+]
 }
